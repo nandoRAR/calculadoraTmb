@@ -8,4 +8,4 @@ Calculadora de calorias  utilizando JavaScript.
 
 ## Site de demonstração
 
-Você pode acessar o site [aqui.](https://b7web-awax.netlify.app/)
+Você pode acessar o site [aqui.](https://nandorar.github.io/calculadoraTmb/)
